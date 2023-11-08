@@ -6,3 +6,5 @@ I started with the process of importing Craigslist data into a PostgreSQL databa
     Ensure your CSV file is correctly formatted with a header row that defines column names.
     Review your CSV file to make sure that the data types in the CSV match your PostgreSQL database schema.
  3.Verify the data has been imported successfully by running SQL queries against your PostgreSQL database.
+# step 2: Data Transfer to Snowflake
+#step 3: Data Transformation with DBT
